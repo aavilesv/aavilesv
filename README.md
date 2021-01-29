@@ -8,13 +8,9 @@
 <h2 align="center">You can reach me at :alien:</h2>
 
 
-  <a href="https://www.linkedin.com/in/angelo-aviles-264983200/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
-  </a>
+  <center><a href="https://www.linkedin.com/in/angelo-aviles-264983200/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile"  height="30" width="30">
+  </a></center>
 
 
 </p>
