@@ -17,12 +17,6 @@ BASE DE DATOS : MYSQL, SQL SERVER, POSTGRESQL ,JAVA
 FRAMEWORK : DJANGO 2.1 REACT JS
 Movil:  Kotlin, Android STUDIO
 
-
-<h2 align="center">technologies:</h2>
-
-
-
-
 ---
 
 ⭐️ From [@avvilesv](https://github.com/aavilesv)
