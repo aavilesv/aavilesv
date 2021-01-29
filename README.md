@@ -12,15 +12,14 @@ I am a computer systems engineer
   </a>
 - 😄 Pronouns: Angelo
 - ⚡ Fun fact: I do not crack
+- 💻Technologies: Python* PHP* VISUAL STUDIO* C#* Javascript* CSS* 
+BASE DE DATOS : MYSQL, SQL SERVER, POSTGRESQL ,JAVA
+FRAMEWORK : DJANGO 2.1 REACT JS
+Movil:  Kotlin, Android STUDIO
+
 
 <h2 align="center">technologies:</h2>
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
-<p align="center">
-  <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-icono-del-lenguaje-de-programaci-oacute-n-python-by-vexels.png" alt="AnhellO :: StackShare"/>
-  </a>
-</p>
 
 
 
