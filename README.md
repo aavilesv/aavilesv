@@ -16,7 +16,7 @@ I am a computer systems engineer
 <h2 align="center">💻Technologies:</h2>
 Python* PHP* VISUAL STUDIO* C#* Javascript* CSS* 
 BASE DE DATOS : MYSQL, SQL SERVER, POSTGRESQL ,JAVA
-FRAMEWORK : DJANGO 2.1 REACT JS
+FRAMEWORK : DJANGO 2.1, Laravel 8, REACT JS
 Movil:  Kotlin, Android STUDIO
 
 ---
