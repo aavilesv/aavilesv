@@ -4,10 +4,10 @@
 
 <h2 align="center">About me</h2>
 I am a computer systems engineer
-- 🌱 I am currently learning Android Studio
-- 👯 I am looking to collaborate on projects like python, django, kotlin, css, php, react js
-- 🤔 I am looking for help with data science
-- ✉ aavilesv@unemi.edu.ec
+- 🌱 I am currently working  in Django
+- 👯 I am looking to collaborate on projects like python, kotlin,Android Studio,jquery,javascript, css, php, data science jr en python(mathematical models,etc.)
+- Framework:Laravel, Vue.js, Django
+-- ✉ aavilesv@unemi.edu.ec
 - 📫 How to contact me:<a href="https://www.linkedin.com/in/angelo-aviles-264983200/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile"  height="30" width="30">
   </a>
