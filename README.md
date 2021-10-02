@@ -1,6 +1,6 @@
 
 
-# Angelo Aviles
+# Angelo Aviles Valenzuela
 
 <h2 align="center">About me</h2>
 I am a computer systems engineer
