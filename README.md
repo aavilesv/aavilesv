@@ -14,9 +14,9 @@ I am a computer systems engineer
 - 😄 Pronouns: Angelo
 - ⚡ Fun fact: I do not crack
 <h2 align="center">💻Technologies:</h2>
-Python* PHP* VISUAL STUDIO* C#* Javascript* CSS* 
+Python* PHP* VISUAL STUDIO* C#* Javascript* TypeScript* CSS* 
 BASE DE DATOS : MYSQL, SQL SERVER, POSTGRESQL ,JAVA
-FRAMEWORK : DJANGO 2.1, Laravel 8, REACT JS
+FRAMEWORK : DJANGO 2.1, Laravel 8, Angular, Vue.js
 Movil:  Kotlin, Android STUDIO
 
 ---
