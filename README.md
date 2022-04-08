@@ -6,7 +6,7 @@
 I am a computer systems engineer
 - 🌱 I am currently working  in Django
 - 👯 I am looking to collaborate on projects like python, kotlin,Android Studio,jquery,javascript, css, php, data science jr en python(mathematical models,etc.)
-- Framework:Laravel, Vue.js, Django
+- Framework:Laravel, Vue.js, Django, Angular
 -- ✉ aavilesv@unemi.edu.ec
 - 📫 How to contact me:<a href="https://www.linkedin.com/in/angelo-aviles-264983200/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile"  height="30" width="30">
