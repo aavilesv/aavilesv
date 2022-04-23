@@ -3,7 +3,7 @@
 # Angelo Aviles Valenzuela
 
 <h2 align="center">About me</h2>
-I am a computer systems engineer, now i'm working en <a href="http://tecsolec.com/"></a>
+I am a computer systems engineer, now i'm working en <a href="http://tecsolec.com/">Tecsolec</a>
 - 🌱 I am currently working  in C#, Sql Server and Angular
 - 👯 I am looking to collaborate on projects like python, kotlin,Android Studio,jquery,javascript, css, php, data science jr en python(mathematical models,etc.)
 - Framework:Laravel, Vue.js, Django, Angular
