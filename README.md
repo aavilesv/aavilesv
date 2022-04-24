@@ -71,15 +71,6 @@ Web developer
     <article class="markdown-body entry-content container-lg f5" itemprop="text">
 
 
-<a href="https://www.instagram.com/abhisheknaiidu/" rel="nofollow">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
-</a>
-<a href="https://discord.gg/XTW52Kt" rel="nofollow">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
-</a>
-<a href="https://twitter.com/abhisheknaiidu" rel="nofollow">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
-</a>
 
 <br>
 <p data-sourcepos="19:1-19:340" dir="auto">hi, i'm <a href="https://abhishknads.me/" rel="nofollow">Abhishek Naidu</a>, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</p>
