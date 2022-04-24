@@ -134,10 +134,10 @@ Other        15 mins         ▒░░░░░░░░░░░░░░░░
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;"></a></code></p>
-<p data-sourcepos="42:1-42:38" dir="auto"><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>this week i spent my time on:</strong></p>
+
+
+</p>
+
 
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre lang="text" class="notranslate"><code class="notranslate">JavaScript     1 hrs 7 mins   ████████████████████▒░░░░   20.96 %
 TypeScript   1 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   10.30 %
@@ -161,16 +161,6 @@ Other        15 mins         ▒░░░░░░░░░░░░░░░░
     </clipboard-copy>
   </div></div>
 
-<p data-sourcepos="55:1-55:73" dir="auto">if you like what i do, maybe consider buying me a coffee/tea <g-emoji class="g-emoji" alias="pleading_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f97a.png">🥺</g-emoji><g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji><g-emoji class="g-emoji" alias="point_left" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f448.png">👈</g-emoji></p>
-<p data-sourcepos="57:1-57:176" dir="auto"><a href="https://www.buymeacoffee.com/abhisheknaiidu" rel="nofollow"><img src="https://camo.githubusercontent.com/45ce6667a35b63fd6a1ba6978d030a7f52ff5b1b262c5c8aa3ece29afc469ac8/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d7265642e706e67" alt="Buy Me A Coffee" width="150" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" style="max-width: 100%;"></a></p>
-<p data-sourcepos="59:1-59:26" dir="auto"><g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">🚧</g-emoji> <strong>my todoist stats:</strong></p>
 
-<p data-sourcepos="61:1-64:30" dir="auto"><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>  7,995 Karma Points<br>
-<g-emoji class="g-emoji" alias="cherry_blossom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f338.png">🌸</g-emoji>  Completed 0 tasks today<br>
-<g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>  Completed 673 tasks so far<br>
-<g-emoji class="g-emoji" alias="hourglass_flowing_sand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23f3.png">⏳</g-emoji>  Longest streak is 10 days</p>
-
-<p data-sourcepos="68:1-68:20" dir="auto"><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> my github stats</p>
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/486a90223ad7e70faf079c62682bb6e26794d91a7eb6495093aacc1542e02c46/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268697368656b6e61696964752673686f775f69636f6e733d74727565267468656d653d676f7468616d"><img src="https://camo.githubusercontent.com/486a90223ad7e70faf079c62682bb6e26794d91a7eb6495093aacc1542e02c46/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268697368656b6e61696964752673686f775f69636f6e733d74727565267468656d653d676f7468616d" alt="abhisheknaiidu" data-canonical-src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&amp;show_icons=true&amp;theme=gotham" style="max-width: 100%;"></a>
-</p></article>
+</article>
   </div>
