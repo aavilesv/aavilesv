@@ -67,15 +67,13 @@ Web developer
   
   
 <div class="Box-body p-4">
-    <div class="d-flex flex-justify-between">
-      <div class="text-mono text-small mb-3">
-        <a href="/abhisheknaiidu/abhisheknaiidu" class="no-underline Link--primary">abhisheknaiidu</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
-      </div>
-
-    </div>
+ 
     <article class="markdown-body entry-content container-lg f5" itemprop="text">
 
-
+<ul data-sourcepos="26:1-28:0" dir="auto">
+<li data-sourcepos="26:1-26:80"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> any freelance work? do reach, <a href="mailto:abhishek.naidu@cred.club">email</a> :)</li>
+<li data-sourcepos="27:1-28:0"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> ask me about anything, i am happy to help;</li>
+</ul>
  
 
 <p data-sourcepos="42:1-42:38" dir="auto"><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>this week i spent my time on:</strong></p>
