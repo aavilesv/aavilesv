@@ -83,7 +83,7 @@ Web developer
 <li data-sourcepos="27:1-28:0"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> ask me about anything, i am happy to help;</li>
 </ul>
 
-
+<p data-sourcepos="42:1-42:38" dir="auto"><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>this week i spent my time on:</strong></p>
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre lang="text" class="notranslate"><code class="notranslate">JavaScript     1 hrs 7 mins   ████████████████████▒░░░░   20.96 %
 TypeScript   1 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   10.30 %
 SQl Server   3 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   35.30 %
