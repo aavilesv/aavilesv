@@ -11,7 +11,10 @@ Web developer
 * 🚀  I'm currently working on [Tecsolec](http://tecsolec.com/)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on Python\* PHP\* VISUAL STUDIO\* C#\* Javascript\* TypeScript\* CSS\* BASE DE DATOS : MYSQL, SQL SERVER, POSTGRESQL ,JAVA FRAMEWORK : DJANGO 2.1, Laravel 8, Angular, Vue.js
-
+<ul data-sourcepos="26:1-28:0" dir="auto">
+<li data-sourcepos="26:1-26:80"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> any freelance work? do reach, <a href="mailto:aavilesv@outlook.es">email</a> :)</li>
+<li data-sourcepos="27:1-28:0"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> ask me about anything, i am happy to help;</li>
+</ul>
 ### Skills
 
 <p align="left">
@@ -74,13 +77,8 @@ Web developer
 </a>
 
 <br>
-<p data-sourcepos="19:1-19:340" dir="auto">Hi, I am Angelo Avilés a computer systems engineer, now i'm working in Tecsolec - 🌱 I am currently working with C#, Sql Server and Angular - 👯 I am looking to collaborate on projects like python, kotlin,Android Studio,jquery,javascript, css, php, data science jr en python(mathematical models,etc.) - Framework:Laravel, Vue.js, Django, Angular -- Microservices with C# and Sql server -- ✉.</p>
-<p data-sourcepos="21:1-21:179" dir="auto">i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
-  <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;"></a></p>
-<ul data-sourcepos="26:1-28:0" dir="auto">
-<li data-sourcepos="26:1-26:80"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> any freelance work? do reach, <a href="mailto:aavilesv@outlook.es">email</a> :)</li>
-<li data-sourcepos="27:1-28:0"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> ask me about anything, i am happy to help;</li>
-</ul>
+
+
 <p data-sourcepos="29:1-29:26" dir="auto"><strong>languages and tools:</strong></p>
 <p data-sourcepos="31:1-40:145" dir="auto"><code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" style="max-width: 100%;"></a></code>
