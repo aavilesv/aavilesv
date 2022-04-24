@@ -139,11 +139,13 @@ Other        15 mins         ▒░░░░░░░░░░░░░░░░
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;"></a></code></p>
 <p data-sourcepos="42:1-42:38" dir="auto"><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>this week i spent my time on:</strong></p>
 
-<div class="snippet-clipboard-content position-relative overflow-auto"><pre lang="text" class="notranslate"><code class="notranslate">JavaScript   16 hrs 7 mins   ████████████████████▒░░░░   80.96 %
-TypeScript   2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-Groovy       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+<div class="snippet-clipboard-content position-relative overflow-auto"><pre lang="text" class="notranslate"><code class="notranslate">JavaScript     1 hrs 7 mins   ████████████████████▒░░░░   20.96 %
+TypeScript   1 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   10.30 %
+SQl Server   3 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   35.30 %
+Angular      2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   20.00 %
+TypeScript   2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   5.00 %
 JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+C#           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   7.01 %
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="JavaScript   16 hrs 7 mins   ████████████████████▒░░░░   80.96 %
 TypeScript   2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
