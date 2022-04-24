@@ -32,25 +32,23 @@ Movil:  Kotlin, Android STUDIO
 
     </div>
     <article class="markdown-body entry-content container-lg f5" itemprop="text"><h3 data-sourcepos="1:1-1:97" dir="auto"><a id="user-content-hey-there-" class="anchor" aria-hidden="true" href="#hey-there-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>hey there <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></a></h3>
-<a href="https://www.instagram.com/abhisheknaiidu/" rel="nofollow">
+<a href="https://www.instagram.com/aavilesv2/?hl=es-la" rel="nofollow">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
 </a>
-<a href="https://discord.gg/XTW52Kt" rel="nofollow">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
-</a>
-<a href="https://twitter.com/abhisheknaiidu" rel="nofollow">
+
+<a href="https://twitter.com/AngeloAvils5" rel="nofollow">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/" rel="nofollow">
+<a href="https://www.linkedin.com/in/angelo-aviles-264983200/" rel="nofollow">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
-<p data-sourcepos="15:1-15:80" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4f7a8bfc334d950a8a472c3676a396262561252bca7eee47d11784136a1e3269/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d616268697368656b6e61696964752e616268697368656b6e6169696475"><img src="https://camo.githubusercontent.com/4f7a8bfc334d950a8a472c3676a396262561252bca7eee47d11784136a1e3269/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d616268697368656b6e61696964752e616268697368656b6e6169696475" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu" style="max-width: 100%;"></a></p>
+
 <br>
-<p data-sourcepos="19:1-19:340" dir="auto">hi, i'm <a href="https://abhishknads.me/" rel="nofollow">Abhishek Naidu</a>, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</p>
+<p data-sourcepos="19:1-19:340" dir="auto">Hi, I am Angelo Avilés a computer systems engineer, now i'm working in Tecsolec - 🌱 I am currently working with C#, Sql Server and Angular - 👯 I am looking to collaborate on projects like python, kotlin,Android Studio,jquery,javascript, css, php, data science jr en python(mathematical models,etc.) - Framework:Laravel, Vue.js, Django, Angular -- Microservices with C# and Sql server -- ✉.</p>
 <p data-sourcepos="21:1-21:179" dir="auto">i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
   <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;"></a></p>
 <ul data-sourcepos="26:1-28:0" dir="auto">
-<li data-sourcepos="26:1-26:80"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> any freelance work? do reach, <a href="mailto:abhishek.naidu@cred.club">email</a> :)</li>
+<li data-sourcepos="26:1-26:80"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> any freelance work? do reach, <a href="mailto:aavilesv@outlook.es">email</a> :)</li>
 <li data-sourcepos="27:1-28:0"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> ask me about anything, i am happy to help;</li>
 </ul>
 <p data-sourcepos="29:1-29:26" dir="auto"><strong>languages and tools:</strong></p>
