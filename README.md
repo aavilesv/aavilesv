@@ -77,7 +77,7 @@ Web developer
 <p data-sourcepos="21:1-21:179" dir="auto">i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
   <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;"></a></p>
 <ul data-sourcepos="26:1-28:0" dir="auto">
-<li data-sourcepos="26:1-26:80"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> any freelance work? do reach, <a href="mailto:abhishek.naidu@cred.club">email</a> :)</li>
+
 
 </ul>
  
