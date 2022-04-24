@@ -83,7 +83,7 @@ Web developer
 <a href="https://www.linkedin.com/in/abhisheknaiidu/" rel="nofollow">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 </a>
-<p data-sourcepos="15:1-15:80" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4f7a8bfc334d950a8a472c3676a396262561252bca7eee47d11784136a1e3269/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d616268697368656b6e61696964752e616268697368656b6e6169696475"><img src="https://camo.githubusercontent.com/4f7a8bfc334d950a8a472c3676a396262561252bca7eee47d11784136a1e3269/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d616268697368656b6e61696964752e616268697368656b6e6169696475" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu" style="max-width: 100%;"></a></p>
+
 <br>
 <p data-sourcepos="19:1-19:340" dir="auto">hi, i'm <a href="https://abhishknads.me/" rel="nofollow">Abhishek Naidu</a>, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</p>
 <p data-sourcepos="21:1-21:179" dir="auto">i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
