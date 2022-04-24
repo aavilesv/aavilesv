@@ -126,17 +126,6 @@ Other        15 mins         ▒░░░░░░░░░░░░░░░░
 <li data-sourcepos="26:1-26:80"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> any freelance work? do reach, <a href="mailto:abhishek.naidu@cred.club">email</a> :)</li>
 <li data-sourcepos="27:1-28:0"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> ask me about anything, i am happy to help;</li>
 </ul>
-<p data-sourcepos="29:1-29:26" dir="auto"><strong>languages and tools:</strong></p>
-<p data-sourcepos="31:1-40:145" dir="auto"><code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width: 100%;"></a></code>
-
-
-</p>
 
 
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre lang="text" class="notranslate"><code class="notranslate">JavaScript     1 hrs 7 mins   ████████████████████▒░░░░   20.96 %
