@@ -74,11 +74,13 @@ Web developer
 <p data-sourcepos="31:1-40:145" dir="auto">
 <p data-sourcepos="42:1-42:38" dir="auto"><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>this week i spent my time on:</strong></p>
 
-<div class="snippet-clipboard-content position-relative overflow-auto"><pre lang="text" class="notranslate"><code class="notranslate">JavaScript   16 hrs 7 mins   ████████████████████▒░░░░   80.96 %
+<div class="snippet-clipboard-content position-relative overflow-auto"><pre lang="text" class="notranslate"><code class="notranslate">JavaScript   1 hrs 7 mins   ████████████████████▒░░░░   80.96 %
+TypeScript   1 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+SQl Server   3 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+Angular      2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
 TypeScript   2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-Groovy       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+C#           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="JavaScript   16 hrs 7 mins   ████████████████████▒░░░░   80.96 %
 TypeScript   2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
