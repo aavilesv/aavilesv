@@ -63,51 +63,7 @@ Web developer
 
 <!-- aqui-->
 
-<div class="Box-body p-4">
 
-    
-<br>
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><h3 data-sourcepos="1:1-1:97" 
-dir="auto"><a id="user-content-hey-there-" class="anchor" aria-hidden="true" href="#hey-there-">
-<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-<path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0
- 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9
- .64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 
- 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>hey there 
- <a target="_blank" rel="noopener noreferrer" 
- href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></a></h3>
-
-
-
-
-<p data-sourcepos="31:1-40:145" dir="auto">
-<p data-sourcepos="42:1-42:38" dir="auto"><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>this week i spent my time on:</strong></p>
-
-<div class="snippet-clipboard-content position-relative overflow-auto"><pre lang="text" class="notranslate"><code class="notranslate">JavaScript   1 hrs 7 mins   ████████████████████▒░░░░   20.96 %
-TypeScript   1 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   10.30 %
-SQl Server   3 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   35.30 %
-Angular      2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   20.00 %
-TypeScript   2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   5.00 %
-JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-C#           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   7.01 %
-</code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="JavaScript   16 hrs 7 mins   ████████████████████▒░░░░   80.96 %
-TypeScript   2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-Groovy       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
-    <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-    </clipboard-copy>
-  </div></div>
-
-
-</article>
-  </div>
   
   
 <div class="Box-body p-4">
