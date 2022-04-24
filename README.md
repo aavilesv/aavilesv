@@ -75,7 +75,10 @@ Web developer
 <p data-sourcepos="15:1-15:80" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4f7a8bfc334d950a8a472c3676a396262561252bca7eee47d11784136a1e3269/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d616268697368656b6e61696964752e616268697368656b6e6169696475"><img src="https://camo.githubusercontent.com/4f7a8bfc334d950a8a472c3676a396262561252bca7eee47d11784136a1e3269/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d616268697368656b6e61696964752e616268697368656b6e6169696475" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu" style="max-width: 100%;"></a></p>
 <br>
 
-
+<ul data-sourcepos="26:1-28:0" dir="auto">
+<li data-sourcepos="26:1-26:80"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> any freelance work? do reach, <a href="mailto:abhishek.naidu@cred.club">email</a> :)</li>
+<li data-sourcepos="27:1-28:0"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> ask me about anything, i am happy to help;</li>
+</ul>
 
  
 
