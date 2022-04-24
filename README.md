@@ -73,14 +73,9 @@ Web developer
 
 
 <br>
-<p data-sourcepos="19:1-19:340" dir="auto">hi, i'm <a href="https://abhishknads.me/" rel="nofollow">Abhishek Naidu</a>, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</p>
-<p data-sourcepos="21:1-21:179" dir="auto">i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
+
   <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;"></a></p>
-<ul data-sourcepos="26:1-28:0" dir="auto">
 
-
-</ul>
- 
 
 <p data-sourcepos="42:1-42:38" dir="auto"><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <strong>this week i spent my time on:</strong></p>
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre lang="text" class="notranslate"><code class="notranslate">JavaScript     1 hrs 7 mins   ████████████████████▒░░░░   20.96 %
