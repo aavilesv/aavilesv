@@ -10,7 +10,7 @@ Web developer
 * ✉️  You can contact me at [aavilesv@outlook.es](mailto:aavilesv@outlook.es)
 * 🚀  I'm currently working on [Tecsolec](http://tecsolec.com/)
 * 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on Python\* PHP\* VISUAL STUDIO\* C#\* Javascript\* TypeScript\* CSS\* BASE DE DATOS : MYSQL, SQL SERVER, POSTGRESQL ,JAVA FRAMEWORK : DJANGO 2.1, Laravel 8, Angular, Vue.js
+* 🤝  I'm open to collaborating on Python\* PHP\* VISUAL STUDIO\* C#\* Javascript\* TypeScript\* CSS\* BASE DE DATOS : MYSQL, SQL SERVER, POSTGRESQL ,JAVA FRAMEWORK : DJANGO , Laravel 8, Angular, Vue.js
 <ul data-sourcepos="26:1-28:0" dir="auto">
 <li data-sourcepos="26:1-26:80"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> any freelance work? do reach, <a href="mailto:aavilesv@outlook.es">email</a> :)</li>
 <li data-sourcepos="27:1-28:0"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> ask me about anything, i am happy to help;</li>
