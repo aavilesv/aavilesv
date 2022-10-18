@@ -4,7 +4,8 @@ Hi 👋 My name is Angelo
 Web developer
 -------------
 
-\- 👯 I am looking to collaborate on projects like python, kotlin,Android Studio,jquery,javascript, css, php, data science jr en python(mathematical models,etc.) - Framework:Laravel, Vue.js, Django, Angular -- Microservices with C# and Sql server --Consume API with Postman I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+\- 👯 I am looking to collaborate on projects in languages like python, kotlin,Android Studio,jquery,javascript, css, php,c#.
+Data science jr en python(mathematical models,etc.) - Framework:Laravel, Vue.js, Django, Angular -- Microservices with C# and Sql server --Consume API with Postman I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 * 🌍  I'm based in Milagro-Ecuador
 * ✉️  You can contact me at [aavilesv@outlook.es](mailto:aavilesv@outlook.es)
