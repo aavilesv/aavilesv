@@ -1,27 +1,40 @@
-Hello 👋 My name is Angelo Avilés
-=======================
+# 👋 Hi, I'm Angelo Avilés
 
-Web developer
--------------
+**Master's Degree in Artificial Intelligence | Systems Engineer | MBA Candidate in Management**
 
-\- 👯 I am looking to collaborate on projects in languages like python, kotlin,Android Studio,jquery,javascript, css, php,c#.
-Data science jr en python(mathematical models,etc.) - Framework:Laravel, Vue.js, Django, Angular -- Microservices with .net core and Sql server --Consume API with Postman I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Passionate about integrating artificial intelligence-based solutions to optimize processes, extract knowledge from data, and support decision-making in organizations. Experience in web development, bibliometrics, NLP, text mining, and supervised and unsupervised machine learning models.
 
-* 🌍  I'm based in Milagro-Ecuador
-* ✉️  You can contact me at [aavilesv@outlook.es](mailto:aavilesv@outlook.es)
-* 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on \*R  \*Python\* PHP \*.net core\* C#\* Javascript\* TypeScript\* CSS\* BASE DE DATOS : MYSQL, SQL SERVER, POSTGRESQL ,JAVA FRAMEWORK : DJANGO , Laravel 8, Angular, Vue.js.
-<ul data-sourcepos="26:1-28:0" dir="auto">
-<li data-sourcepos="27:1-28:0"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> ask me about anything, i am happy to help;</li>
-</ul>
-### Skills
+Currently focused on:
+- 📊 Data mining and bibliometric analysis
+- 🤖 Machine Learning & Deep Learning
+- 🧠 NLP: topic modeling, classification, and text analysis
+- 🛠️ AI applied to academic and organizational processes
+- 🚀 Digital transformation and data-driven management
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+---
 
+### 🧩 Technologies and Tools
+
+**Languages:** Python, C#, JavaScript, TypeScript, PHP, Java
+**AI & Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, NLP, Computer Vision
+ 
+**Frameworks:** Django, Laravel, .NET Core, Angular, Vue.js
+**Databases:** SQL Server, MySQL, PostgreSQL, NoSQL
+**Dev Tools:** Git, Docker, APIs, Postman
+**Others:** Bibliometrix, VOSviewer, ScientoPy, Mendeley, Power BI
+
+---
+
+### 🤝 Collaborations and Interests
+
+I am open to collaborating on projects related to:
+- Applied Artificial Intelligence
+- Text mining and bibliometric analysis
+- Web apps with AI integration
+- Dashboards, automation, and data-driven strategy
+
+📍 Milagro, Ecuador
+📧 Contact: **aavilesv@outlook.es**
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
