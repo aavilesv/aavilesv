@@ -1,40 +1,40 @@
-# 👋 Hi, I'm Angelo Avilés
+# 👋 Hola, soy Angelo Avilés
 
-**Master's Degree in Artificial Intelligence | Systems Engineer | MBA Candidate in Management**
+**Máster en Inteligencia Artificial | Ingeniero de Sistemas | Candidato a MBA en Gestión**
 
-Passionate about integrating artificial intelligence-based solutions to optimize processes, extract knowledge from data, and support decision-making in organizations. Experience in web development, bibliometrics, NLP, text mining, and supervised and unsupervised machine learning models.
+Apasionado por la integración de soluciones basadas en inteligencia artificial para optimizar procesos, extraer conocimiento de los datos y apoyar la toma de decisiones en las organizaciones. Experiencia en desarrollo web, bibliometría, PLN, minería de textos y modelos de aprendizaje automático supervisados y no supervisados.
 
-Currently focused on:
-- 📊 Data mining and bibliometric analysis
-- 🤖 Machine Learning & Deep Learning
-- 🧠 NLP: topic modeling, classification, and text analysis
-- 🛠️ AI applied to academic and organizational processes
-- 🚀 Digital transformation and data-driven management
-
----
-
-### 🧩 Technologies and Tools
-
-**Languages:** Python, C#, JavaScript, TypeScript, PHP, Java
-**AI & Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, NLP, Computer Vision
- 
-**Frameworks:** Django, Laravel, .NET Core, Angular, Vue.js
-**Databases:** SQL Server, MySQL, PostgreSQL, NoSQL
-**Dev Tools:** Git, Docker, APIs, Postman
-**Others:** Bibliometrix, VOSviewer, ScientoPy, Mendeley, Power BI
+Actualmente centrado en:
+- 📊 Minería de datos y análisis bibliométrico
+- 🤖 Aprendizaje automático y aprendizaje profundo
+- 🧠 PLN: modelado de temas, clasificación y análisis de texto
+- 🛠️ IA aplicada a procesos académicos y organizativos
+- 🚀 Transformación digital y gestión basada en datos
 
 ---
 
-### 🤝 Collaborations and Interests
+### 🧩 Tecnologías y herramientas
 
-I am open to collaborating on projects related to:
-- Applied Artificial Intelligence
-- Text mining and bibliometric analysis
-- Web apps with AI integration
-- Dashboards, automation, and data-driven strategy
+**Lenguajes:** Python, C#, JavaScript, TypeScript, PHP, Java
+**IA y ciencia de datos:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PLN, visión artificial
+
+**Marcos:** Django, Laravel, .NET Core, Angular, Vue.js
+**Bases de datos:** SQL Server, MySQL, PostgreSQL, NoSQL
+**Herramientas de desarrollo:** Git, Docker, API, Postman
+**Otros:** Bibliometrix, VOSviewer, ScientoPy, Mendeley, Power BI
+
+---
+
+### 🤝 Colaboraciones e intereses
+
+Estoy abierto a colaborar en proyectos relacionados con:
+- Inteligencia artificial aplicada
+- Minería de textos y análisis bibliométrico
+- Aplicaciones web con integración de IA
+- Paneles de control, automatización y estrategia basada en datos
 
 📍 Milagro, Ecuador
-📧 Contact: **aavilesv@outlook.es**
+📧 Contacto: **aavilesv@outlook.es**
 
 
 ### Socials
