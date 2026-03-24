@@ -34,7 +34,7 @@ I am open to collaborating on projects related to:
 - Dashboards, automation, and data-driven strategy
 
 📍 Milagro, Ecuador
-📧 Contact: **aavilesv@outlook.es**
+
 
 
 ### Socials
